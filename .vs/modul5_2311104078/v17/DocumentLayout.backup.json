@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{78B401B0-09A9-4360-9FF8-192D62B6C08D}|modul5_2311104078\\modul5_2311104078.csproj|c:\\users\\naura\\documents\\kuliah\\semester 4\\konstruksi perangkat lunak\\modul 5\\modul5_2311104078\\modul5_2311104078\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78B401B0-09A9-4360-9FF8-192D62B6C08D}|modul5_2311104078\\modul5_2311104078.csproj|solutionrelative:modul5_2311104078\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B401B0-09A9-4360-9FF8-192D62B6C08D}|modul5_2311104078\\modul5_2311104078.csproj|c:\\users\\naura\\documents\\kuliah\\semester 4\\konstruksi perangkat lunak\\modul 5\\modul5_2311104078\\modul5_2311104078\\penjumlahan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B401B0-09A9-4360-9FF8-192D62B6C08D}|modul5_2311104078\\modul5_2311104078.csproj|solutionrelative:modul5_2311104078\\penjumlahan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Penjumlahan.cs",
+              "DocumentMoniker": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 5\\modul5_2311104078\\modul5_2311104078\\Penjumlahan.cs",
+              "RelativeDocumentMoniker": "modul5_2311104078\\Penjumlahan.cs",
+              "ToolTip": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 5\\modul5_2311104078\\modul5_2311104078\\Penjumlahan.cs",
+              "RelativeToolTip": "modul5_2311104078\\Penjumlahan.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:56:21.092Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,14 +45,10 @@
               "RelativeDocumentMoniker": "modul5_2311104078\\Program.cs",
               "ToolTip": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 5\\modul5_2311104078\\modul5_2311104078\\Program.cs",
               "RelativeToolTip": "modul5_2311104078\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T09:11:19.605Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
